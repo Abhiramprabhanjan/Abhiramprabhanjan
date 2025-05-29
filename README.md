@@ -1,5 +1,5 @@
 <div align="center">
-<h1>   राम राम </h1> 
+
 
   <img src="https://static.vecteezy.com/system/resources/thumbnails/023/315/123/small_2x/silhouette-hindu-mythology-lord-rama-taking-an-aim-and-copy-space-on-brown-jai-shri-ram-hindi-text-background-vector.jpg" alt="MasterHead">
 </div>
