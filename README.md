@@ -17,11 +17,11 @@
 
 - 🔭 I’m currently working on **Personal portfolio website using React, HTML, CSS**
 
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB, Java DSA, and React**
+- 🌱 I’m currently learning ** Java DSA, and React**
 
 - 👯 I’m looking to collaborate on **Beginner-friendly frontend or MERN stack projects**
 
-- 🤝 I’m looking for help with **Optimizing Java DSA solutions & backend logic**
+- 🤝 I’m looking for help with **Optimizing Java DSA solutions**
 
 - 📫 How to reach me **abhiramprabhanjan.ragula@gmail.com**
 
